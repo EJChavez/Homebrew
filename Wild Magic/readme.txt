@@ -18,5 +18,15 @@ Changes:
 5. A player may choose to take a point of exhaustion rather than have a surge take effect
 6. Added Wild Magic Metamagic Option
 
+To use the dashboard:
+1. Choose your Surge Table you will use: Modified (Mine), or Original (From PHB)
+2. Select the Number of Surges you want to see, either 1 (for sorcerers under level 14), or 2 (For level 14 sorcerers or for fun)
+3. When you use the Tides of Chaos option, either press the checkbox on Sheets, or Switch from Available to Used on Excel.
+4. Choose whether the Surge is Guaranteed (If the DM tells you to Surge or if the Wild Magic Surge table tells you to) or not (Usual)
+5. Select the Spell Level (0 for cantrip)
+6. Press the Checkbox under the Heading to refresh the document and Roll
+7. After you refresh the d20 will tell you what you rolled and whether or not that falls into the surge ratio
+8. If you surged, you will see the description of surge right underneath
+
 If you use this homebrew, feel free to comment to let me know how it feels, As time passes I may add more options to the surge table or include
 different surge tables that other people have made, (perhaps the crazy 10,000 option surge table).
