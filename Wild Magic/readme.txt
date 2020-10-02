@@ -6,9 +6,9 @@ more or less "Control" over it. Originally (http://dnd5e.wikidot.com/sorcerer:wi
 the player will ever get to actually surge, which means you either have DM's that will constantly have you surge every other spell, or you have
 DM's that won't ever have you roll on the table, negating the entire purpose of the subclass.
 
-Thus the changes I made from the original class are minimal to keep the spirit of the original impact, while giving the player more urgency,
+Thus the changes I made from the original class are minimal to keep the spirit of the original intact, while giving the player more options,
 I also increased the amount of possible options on the wild surge table from 50 to 200. This modified wild surge table has roughly the same 
-ratio of Good/Neutral/Bad effects that the original has, but will ensure more variety.
+ratio of Good/Neutral/Bad effects that the original has, but more variety.
 
 Changes:
 1. The Player Rolls after every spell cast above level 1
