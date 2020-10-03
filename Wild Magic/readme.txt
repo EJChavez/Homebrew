@@ -1,4 +1,4 @@
-For access to the dashboard to make a copy for yourself:
+For access to the online sheets dashboard to make a copy for yourself:
 https://docs.google.com/spreadsheets/d/1nJ2IGKjvKhhl0-v2PbQeqbBlWIi2WMXdqKRIW5RyLQI/edit?usp=sharing
 
 This project was made due to the inherent DM reliance on the Wild Magic Sorcerer Subclass, So I made some homebrew changes that gives the player
